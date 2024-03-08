@@ -1,7 +1,7 @@
 # Baatyr Bolotbek uulu
 _Middle Backend Developer with Rich Experience in Web Application Development and Team Leadership from Bishkek, Kyrgyzstan 🇰🇬_ <br>
 
-[Email](mailto:batyrhanbolotbek@gmail.com) / [LinkedIn](https://www.linkedin.com/in/baatyr-bolotbek-uulu-536374231/) / [GitHub](https://github.com/BatyrhanB) / [Telegram](https://t.me/godachyo)
+[Email](mailto:batyrhanbolotbek@gmail.com) / [LinkedIn](https://www.linkedin.com/in/baatyr-bolotbek-uulu-536374231/) / [GitHub](https://github.com/BatyrhanB) / [Telegram](https://t.me/godachyo) / [Leetcode](https://leetcode.com/Batyrhan21/)
 
 Hello, I am an experienced **Middle Backend Developer** with _2 years and 2 months_ of commercial experience specializing in web application development. My technical mastery in **Python**, **Django** and **FastAPI** forms the core of my development experience.
 
