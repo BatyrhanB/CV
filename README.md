@@ -82,7 +82,7 @@ Football KG - Multifunctional informational website dedicated to Kyrgyz football
 
 Tipson - project designed to streamline the process of evaluating and rewarding staff. The platform allows customers to easily express gratitude through QR codes, providing a simple and effective way to leave reviews and give tips. Developed by our team, the Tipson project facilitates convenient interaction between customers and service staff, elevating the quality of service to new heights.
 
-**[Tez Sat](https://play.google.com/store/apps/details?id=com.tezsat.tezsat)** - Marketplace <br>
+**[Tez Sat](https://tezsat.kg/)** - Marketplace <br>
 
 Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos.
 Items claim is also easy with Tez Sat.
