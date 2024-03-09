@@ -70,7 +70,7 @@ A local IT-company that specializes in IT consulting and robust web application 
 
 **Projects**:
 
-**ESS (Mobile app)** - Employee Self Service <br>
+**[ESS](https://play.google.com/store/apps/details?id=com.retmind.ess.ess_android&pcampaignid=web_share)** - Employee Self Service <br>
 
 ESS - Tailored for retail teams, EES streamlines work hour tracking and communication. Utilized in 12 countries, it enhances operational efficiency and fosters a collaborative working environment.
 
