@@ -38,8 +38,9 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Git
 - Python, Golang
 - Django (DRF), FastAPI, Flask
-- PostgreSQL, MongoDB
+- PostgreSQL, MongoDB, PostGIS, Neon
 - Celery, Redis
+- Memcached, Haystack, Whoosh
 - AWS, Digital Ocean Spaces
 - Docker, Docker-compose, Gitlab CI/CD, Bash, Nginx, Gunicorn
 - Firebase Cloud Messaging (FCM)
@@ -55,8 +56,6 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 ## 👩🏼‍💻 Engineering Experience
 
 ## **Backend/DevOps Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2022 - Feb 2024)_ <br>
-
-A local IT-company that specializes in IT consulting and robust web application development, providing solutions for most of the client's problems.
 
 - Actively contributed to shaping the applications architecture;
 - Deploying the applicaions to server, ensuring seamless execution and optimal performance:
@@ -108,6 +107,46 @@ My responsibilities also included deploying applications to development and prod
 Notable achievements include the rapid and successful completion of the ESS project within a tight timeframe, demonstrating my commitment and reliability. In the TezSat project, I achieved remarkable optimization, improving query performance tenfold, which was recognized and appreciated by the team.
 
 I initiated coding standardization discussions within the team, focusing on code structure and cleanliness. By providing concise documentation of coding practices, I significantly improved the team's efficiency and effectiveness. Together, these initiatives emphasized my commitment to excellence and contributed to the overall success of projects and team dynamics at GeekStudio.
+
+## **Backend/DevOps Developer** [Boomerang](https://www.linkedin.com/company/boomerang-delivery/mycompany/) _(Mar 2024 - Present)_ <br>
+
+
+- Refactoring of architecture and code;
+- Configuring deploy/server system;
+- Performing complex geo-data related tasks
+- Writing unit and integration tests
+- Writing a service for tariffication of the whole system
+- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Python · Django (DRF) · FastAPI · MVC · PostgreSQL · PostGIS · Celery · Redis · Haystack · Whoosh · Docker (Docker compose) · Kubernates · Github Actions · AWS · Digital Ocean Spaces · FCM · Swagger · Redoc · Websocket · Channels · PyJWT · Pytest**.
+
+**Projects**:
+
+**My Logistic** - Logistics ERP system <br>
+
+ERP logistics project provides efficient management of delivery and storage of goods on regional and international levels. Provides convenient interaction for customers, delivery companies, warehousing and logistics services, and integrated logistics providers. Simplifies routine tasks for companies and provides convenient management of sending and receiving goods, including flexible billing and convenient geographic resources.
+
+#### 🏆 Role Achievements 
+Initiator and implementer of project architecture refactoring:
+Suggested the initiation of project architecture refactoring to improve project efficiency and scalability.
+Implemented the refactoring, made the necessary changes and coordinated the process with the development team.
+
+Responsible for delivering code to the server and maintaining the server:
+Responsible for the safe and efficient delivery of code to the server, ensuring stable operation of the application.
+Handled server configuration and maintenance, ensuring the server was running reliably and at optimal performance.
+
+Implementation of complex tasks:
+Performed the implementation of the most complex tasks, such as tariffing networks and developing a mechanism for finding addresses and their parents by latitude and longitude coordinates.
+Demonstrated high professionalism and skills in developing and implementing complex functionality.
+
+## **Backend/DevOps Developer** [Axion Lab](https://www.linkedin.com/company/axion-lab/about/) _(Sep 2022 - Present time)_ <br>
+
+- Integration of external payment systems and work with crypto exchanges;
+- Writing complex websocket systems;
+- Team leadership, contribution to team improvement;
+- Actively contributed to shaping the applications architecture;
+- Deploying the applicaions to server, ensuring seamless execution and optimal performance;
+- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Python · Goland · Django (DRF) · GIN · FastAPI · MVC · PostgreSQL · Celery · Redis · Docker (Docker compose) · Kubernates · Gitlab CI/CD · AWS · Digital Ocean Spaces · FCM · Swagger · Redoc · Websocket · Channels · PyJWT · Pytest**.
+
+**Projects**: **NDA**
 
 <!--## 📃 Certificates-->
 
