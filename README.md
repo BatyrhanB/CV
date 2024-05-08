@@ -160,5 +160,5 @@ Demonstrated high professionalism and skills in developing and implementing comp
 
 ## 👩🏼‍🎓 Education
 
-**Applied  Computer Science** [NCG](https://ncg.kg/) _(2023 - 2027)_ <br>
+**Applied  Computer Science** [NCG](https://ncg.kg/) _(2012 - 2024)_ <br>
 **Backend Developer** [Geeks](https://geeks.kg/) _(Nov 2021 - Mar 2022)_ <br>
