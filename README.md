@@ -137,16 +137,20 @@ Implementation of complex tasks:
 Performed the implementation of the most complex tasks, such as tariffing networks and developing a mechanism for finding addresses and their parents by latitude and longitude coordinates.
 Demonstrated high professionalism and skills in developing and implementing complex functionality.
 
-## **Backend/DevOps Developer** [Axion Lab](https://www.linkedin.com/company/axion-lab/about/) _(Sep 2022 - Present time)_ <br>
+### **Backend/DevOps Developer** — [MDigital](https://mdigital.kg) _(March 2024 – Present)_
 
-- Integration of external payment systems and work with crypto exchanges;
-- Writing complex websocket systems;
-- Team leadership, contribution to team improvement;
-- Actively contributed to shaping the applications architecture;
-- Deploying the applicaions to server, ensuring seamless execution and optimal performance;
-- **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Python · Goland · Django (DRF) · GIN · FastAPI · MVC · PostgreSQL · Celery · Redis · Docker (Docker compose) · Kubernates · Gitlab CI/CD · AWS · Digital Ocean Spaces · FCM · Swagger · Redoc · Websocket · Channels · PyJWT · Pytest**.
+**MDigital** is an IT company in Kyrgyzstan developing digital solutions for finance and commerce.  
+As part of the team, I worked on **Mmarket**, a marketplace integrated into the digital ecosystem of **MBank**.
 
-**Projects**: **NDA**
+#### **Key Contributions:**
+- Backend development for the **Mmarket** marketplace platform.  
+- Integration of the marketplace with MBank’s digital ecosystem and internal services.  
+- Implementation of services to support online shopping and installment payments.  
+- Deployment and maintenance of applications, ensuring stability and performance.  
+- Contribution to backend architecture and optimization of development processes.  
+
+#### **_Technologies used:_**
+**Python · Django (DRF) · FastAPI · ElasticSearch · PostgreSQL · Redis · Celery · Docker Compose · Swarm · Kubernetes · GitLab CI/CD · Grafana · Loki · Prometheus · AWS · Swagger · WebSocket · JWT · Pytest · Git · Scrapy · Selenium · Playwright**
 
 <!--## 📃 Certificates-->
 
