@@ -67,36 +67,6 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 - Regular code reviews in the project;
 - **_Technologies used:_** **Object-Oriented Programming (OOP) · SOLID Design Principles · Git · Python · Django (DRF) · FastAPI · Aiogram · MVC · PostgreSQL · Celery · Redis · Docker (Docker compose)· Gitlab CI/CD · AWS · Digital Ocean Spaces · FCM · Swagger · Redoc · Websocket · Channels · PyJWT · Pytest · MVC**.
 
-**Projects**:
-
-**[ESS](https://play.google.com/store/apps/details?id=com.retmind.ess.ess_android&pcampaignid=web_share)** - Employee Self Service <br>
-
-ESS - Tailored for retail teams, EES streamlines work hour tracking and communication. Utilized in 12 countries, it enhances operational efficiency and fosters a collaborative working environment.
-
-**[FOOTBALL.KG](https://football.kg/)** - Football info portal <br>
-
-Football KG - Multifunctional informational website dedicated to Kyrgyz football leagues. Implemented with extensive features, including tournament tables, team and player ratings, live streaming options, news updates, and match statistics. This project aims to provide comprehensive information to football enthusiasts and community members, making Football KG a central hub for football-related data in Kyrgyzstan.
-
-**[TipsOn](https://tipson.kg/)** - Paying tips in convenient ways <br> 
-
-Tipson - project designed to streamline the process of evaluating and rewarding staff. The platform allows customers to easily express gratitude through QR codes, providing a simple and effective way to leave reviews and give tips. Developed by our team, the Tipson project facilitates convenient interaction between customers and service staff, elevating the quality of service to new heights.
-
-**[Tez Sat](https://tezsat.kg/)** - Marketplace <br>
-
-Tez Sat - Free marketplace in your pocket, developed by Kyrgyz for Kyrgyzstan. allowing you to sell items with convenience by posting ads with photos.
-Items claim is also easy with Tez Sat.
-
-**[Geeks-Online](https://online.geeks.kg/)** - Online educational system LMS <br>
-
-Geeks-Online - Multifunctional educational system designed for students, teachers, mentors, supervisors, and Geeks company management. The platform provides a convenient and feature-rich environment for learning and collaboration, fostering the exchange of knowledge and expertise. The project's notable achievements underscore its significance as a central element in Geeks' educational ecosystem, delivering a modern and progressive learning experience. 
-
-**[KYRGYZSTAN JAPAN](https://kgjp.store/ru)** - Japanese Vehicle Marketplace <br>
-
-KYRGYZSTAN JAPAN - provides services for the repurchase of used cars, motorcycles and special equipment directly from Japanese auctions, their export, as well as the sale of used cars, new and used auto parts, accessories for cars of various brands
-
-**[Salih](https://salih.kg/)** - Online Platform for Meat Purchases <br>
-
-Salih - website for easy online purchases of meat products from a leading company in Kyrgyzstan. The platform streamlines the ordering process, providing customers with the convenience of choosing and buying meat products directly online.
 
 #### 🏆 Role Achievements 
 
