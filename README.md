@@ -55,7 +55,7 @@ I am always striving for self-improvement and enhancement of my hard skills, so 
 
 ## 👩🏼‍💻 Engineering Experience
 
-## **Backend/DevOps Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2022 - Feb 2024)_ <br>
+## **Backend/DevOps Developer** [GeekStudio](https://geekstudio.kg/) _(Mar 2022 - Dec 2023)_ <br>
 
 - Actively contributed to shaping the applications architecture;
 - Deploying the applicaions to server, ensuring seamless execution and optimal performance:
@@ -78,7 +78,7 @@ Notable achievements include the rapid and successful completion of the ESS proj
 
 I initiated coding standardization discussions within the team, focusing on code structure and cleanliness. By providing concise documentation of coding practices, I significantly improved the team's efficiency and effectiveness. Together, these initiatives emphasized my commitment to excellence and contributed to the overall success of projects and team dynamics at GeekStudio.
 
-## **Backend/DevOps Developer** [Boomerang](https://www.linkedin.com/company/boomerang-delivery/mycompany/) _(Mar 2024 - Present)_ <br>
+## **Backend/DevOps Developer** [Boomerang](https://www.linkedin.com/company/boomerang-delivery/mycompany/) _(Dec 2023 - Mar 2024)_ <br>
 
 
 - Refactoring of architecture and code;
